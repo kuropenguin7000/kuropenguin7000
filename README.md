@@ -71,31 +71,15 @@ public class KuroPenguin {
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kuropenguin7000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=kuropenguin7000&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuropenguin7000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kuropenguin7000&theme=onedark&no-frame=true&column=7&margin-w=8&title_color=00E5FF" alt="trophies" />
-
-</div>
-
----
 
 ### 🧠 LeetCode
 
+<!-- ⚠️ Replace `YOUR_LEETCODE_USERNAME` below with your real LeetCode handle.
+     This uses leetcard.jacoblin.cool, which is far more reliable than most. -->
 <div align="center">
 
-<a href="https://leetcode.com/rafisaefulr">
-  <img src="https://leetcode-stats-six.vercel.app/?username=rafisaefulr" alt="LeetCode stats" />
+<a href="https://leetcode.com/u/rafisaefulr/">
+  <img src="https://leetcard.jacoblin.cool/rafisaefulr?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </a>
 
 </div>
